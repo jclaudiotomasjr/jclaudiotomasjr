@@ -6,27 +6,27 @@
 - 🔭 I’m currently working at [SantaCruz](http://www.stcruz.com.br)
 
 
-<!--
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=jclaudiotomasjr&show_icons=true&theme=vision-friendly-dark" alt="jclaudiotaomasjr's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclaudiotomasjr&layout=compact&theme=vision-friendly-dark" alt="jclaudiotomas's most languages"/>
-</p>
--->
+<div align="center">
+ <a href="https://github.com/jclaudiotomasjr">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jclaudiotomasjr&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclaudiotomasjr&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Jr-go" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="Jr-rust" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+  <img align="center" alt="Jr-JS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Jr-C" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  
+</div>
+  
+  
+  <div> 
+    
+  <br>
+  <a href = "mailto:jclaudiotomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
