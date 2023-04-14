@@ -14,6 +14,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Jr-go" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="Jr-rust" height="80" width="80" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Jr-rust" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
   <img align="center" alt="Jr-JS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Jr-C" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
