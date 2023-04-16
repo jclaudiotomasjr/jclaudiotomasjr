@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Claudio Tomas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jclaudiotomasjr&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Software Engineering student, Go and web development enthusiast.
+- 🔥 Software Backend, Go, Java and web development enthusiast.
 
 - 🔭 I’m currently working at [SantaCruz](http://www.stcruz.com.br)
 
